@@ -52,3 +52,4 @@ HC/                       → Helper folder containing fonts
     └── Montserrat-Light.ttf
 README.md                     → This documentation file
 Project_Report.md             → Full project development journey
+Booklet_Research_Paper.pdf    → The complete peer reviewed technical research paper, published on the FidelFolio website
