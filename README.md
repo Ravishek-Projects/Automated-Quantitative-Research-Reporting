@@ -1,4 +1,4 @@
-# Project Report: FidelFolio PDF Report Generator
+# FidelFolio PDF Report Generator
 
 ## Executive Summary
 
