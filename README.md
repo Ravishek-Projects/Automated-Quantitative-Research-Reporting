@@ -38,3 +38,17 @@ The final iteration of the script introduced conditional layout toggles, creatin
 ## Conclusion
 
 The `create_report_v2.py` script now serves as a robust, decoupled, and standalone presentation layer. It effectively translates business logic defined in an Excel sheet into a highly polished, paginated PDF report with zero graphical overlap or textual clipping.
+
+## E. Files and Folder Structure
+
+```text
+
+create_report_v2.py       → Main project script (contains all PDF assembly logic)
+Icon/                     → Helper folder containing icons
+HC/                       → Helper folder containing fonts
+└── Files/
+    ├── Montserrat-Regular.ttf
+    ├── Montserrat-Bold.ttf
+    └── Montserrat-Light.ttf
+README.md                     → This documentation file
+Project_Report.md             → Full project development journey
